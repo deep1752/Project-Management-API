@@ -58,6 +58,8 @@ Follow these steps to set up and run the project locally:
 
 Explore the API endpoints using the provided Postman Collection. Import the `ProjectManagementAPI.postman_collection.json` file into Postman to easily test:
 
+Download Postman Collection file - [https://drive.google.com/file/d/1aA5xgr4q5Qt3WBNwvgqDWrRkVhuBL9mB/view?usp=sharing]
+
 *   Authentication endpoints (signup, login, logout)
 *   Project management endpoints (CRUD, member assignment)
 *   Task management endpoints (CRUD, filtering, pagination)
